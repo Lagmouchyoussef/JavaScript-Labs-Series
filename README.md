@@ -68,7 +68,7 @@ Steps to follow:
 ✓ Add event handlers to the start, stop and reset buttons.
 ✓ Make sure to update the user interface accordingly after each user interaction.
 
-4. Test and debug:
+5. Test and debug:
 ✓ Test your application by starting, stopping and resetting the timer.
 ✓ Make sure the timer behaves as expected and user interactions work correctly.
 ✓ Use your browser's developer tools to debug any potential issues.
